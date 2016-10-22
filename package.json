@@ -1,19 +1,19 @@
 {
-  "name": "math-ext",
+  "name": "handy-math",
   "version": "1.0.0",
   "description": "Mathematic extension library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/handyJs/mathExt.git"
+    "url": "git+https://github.com/handyJs/math.git"
   },
   "author": "JamesYin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/handyJs/mathExt/issues"
+    "url": "https://github.com/handyJs/math/issues"
   },
-  "homepage": "https://github.com/handyJs/mathExt#readme"
+  "homepage": "https://github.com/handyJs/math#readme"
 }
