@@ -1,5 +1,5 @@
 {
-  "name": "handy-math",
+  "name": "lc-math",
   "version": "1.0.0",
   "description": "Mathematic extension library",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/handyJs/math.git"
+    "url": "git+https://github.com/lazycoffee/lc-math.git"
   },
   "author": "JamesYin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/handyJs/math/issues"
+    "url": "https://github.com/lazycoffee/lc-math/issues"
   },
-  "homepage": "https://github.com/handyJs/math#readme"
+  "homepage": "https://github.com/lazycoffee/lc-math#readme"
 }
